@@ -117,6 +117,7 @@ public class TechJobs {
                 System.out.println("\n*****");
                 for (String key : item.keySet())
                     System.out.println(key + ":" + item.get(key));
+                System.out.println("*****");
             }
         }
         else {
